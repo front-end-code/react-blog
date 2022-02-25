@@ -1,0 +1,11 @@
+{
+    "blogs": [
+        {"id": 1, "title": "How to build website", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Alex", "imgUrl": "https://rcdesign.com/wp-content/uploads/2017/11/how-long-build-professional-website.jpg"},
+        {"id": 2, "title": "React tutorial", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Svaridze", "imgUrl": "https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg"},
+        {"id": 3, "title": "Markup meaning", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Kent", "imgUrl": "https://previews.123rf.com/images/simpson33/simpson331303/simpson33130300015/18306741-code-de-langue-html-sur-%C3%A9cran-lcd.jpg"},
+        {"id": 4, "title": "Html Courses", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Alex", "imgUrl": "https://rcdesign.com/wp-content/uploads/2017/11/how-long-build-professional-website.jpg"},
+        {"id": 5, "title": "Css Courses", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Svaridze", "imgUrl": "https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg"},
+        {"id": 6, "title": "Front-end staff", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Kent", "imgUrl": "https://previews.123rf.com/images/simpson33/simpson331303/simpson33130300015/18306741-code-de-langue-html-sur-%C3%A9cran-lcd.jpg"},
+        {"id": 7, "title": "Sass Courses", "body": "Lorem ipsum trulailaa ipsum trulailaaipsum trulailaa", "author": "Alex", "imgUrl": "https://rcdesign.com/wp-content/uploads/2017/11/how-long-build-professional-website.jpg"}
+    ]
+}
