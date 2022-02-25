@@ -9,7 +9,7 @@ const BlogDetails = () => {
         <div>
             { isPending && <div>Article is loading...</div> }
             { blog && (
-                <div className="card my-2" key={blog.id} w-100>
+                <div className="card my-2 w-100" key={blog.id}>
                     <div className="card-body">
                         <h5 className="card-title">{blog.title}</h5>
                         <img src={blog.imgUrl} className="card-img-top" alt={blog.title} height="50%" />
